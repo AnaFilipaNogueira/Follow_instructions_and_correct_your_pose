@@ -1,1 +1,1 @@
-# Follow_instructions_and_correct_your_pose
+# Follow instructions and correct your pose
