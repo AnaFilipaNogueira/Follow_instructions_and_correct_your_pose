@@ -14,7 +14,7 @@ dataset=fixmypose
 task=speaker
 
 folders_speaker_eng_list=("normal") #options: "cutout_img0"  "cutout_imgtrg" "cutout_img0_imgtrg" #"normal" "normal_PTFalse"
-nlpaug_choice_list=("delete_random")  #options: 'spelling_aug', 'delete_random', 'synonym_replace', 'all_nlpaug'
+nlpaug_choice_list=("delete_random")  #options: 'spelling_aug', 'delete_random', 'synonym_replace', 'sometimes', 'sequential'
 
 for nlp_aug in "${nlpaug_choice_list[@]}"
 do
