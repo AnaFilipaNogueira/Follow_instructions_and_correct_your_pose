@@ -24,7 +24,7 @@ do
         
         nlpaug_choice=$nlp_aug
         aug_p=0.5
-        choose_stop_words=True #("waist" "hip" "hips" "leg" "legs" "thigh" "thighs" "knee" "knees" "foot" "feet" "heels" "heel" "toe" "toes" "arm" "arms" "forearms" "forearm" "shoulder" "shoulders" "hand" "hands" "wrist" "wrists" "palm" "palms" "finger" "fingers" "elbow" "elbows" "head" "face" "eyes" "forehead" "torso" "navel" "chest" "body" "belly" "neck" "throat" "right" "left") 
+        choose_stop_words=True 
         
         echo $alteracoes ----------------------------------------------------------------------------------------------------------
 
