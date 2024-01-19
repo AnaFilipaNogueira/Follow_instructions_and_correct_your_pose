@@ -1,0 +1,1 @@
+slurmstepd-theia: error: *** JOB 58107 ON theia CANCELLED AT 2024-01-12T17:38:31 ***

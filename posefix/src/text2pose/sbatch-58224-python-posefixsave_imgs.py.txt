@@ -1,0 +1,2 @@
+Simply reruning the app (hamburger menu > 'Rerun') may be enough to get rid of a potential 'GLError'.
+135305
