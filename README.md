@@ -8,4 +8,4 @@ The PoseFix and the AMASS directories were imported from the original repositori
 </p></br>
 <em>Fig.1 - Example of a human mesh pair</em><br/><br/>
 
-The FixMyPose directory was imported from the original project, however, some files were changed to suit the modifications made, namely, regarding the possibility of using or not the pre-training from ImageNet, the addition of the data augmentation techniques: CutOut, Spelling Augmenter, Random Deletion, Synonym Replacement, Sometimes and Sequential, and also, the adaption to allow to run the model using the PoseFix dataset.
+The FixMyPose directory was imported from the original project, however, some files were changed or created to suit the modifications made, namely, regarding the possibility of using or not the pre-training from ImageNet, the addition of the data augmentation techniques: CutOut, Spelling Augmenter, Random Deletion, Synonym Replacement, Sometimes and Sequential, and also, the adaption to allow to run the model using the PoseFix dataset.
