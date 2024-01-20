@@ -1,6 +1,6 @@
 # Follow instructions and correct your pose
 ## Directories
-The PoseFix and the AMASS directories were imported from the original repositories and some files were adapted or created to be able to generate meshes from the available keypoints and the .json files for the various splits with the necessary information.
+The PoseFix directory was imported from the original repositories and some files were adapted or created to be able to generate the human meshes from the available keypoints and the .json file with the necessary information, then, this .json file was divided in various files, one for each split, using the file in fixmypose/construct_json.py.
 
 <p float="left">
   <img src="https://github.com/AnaFilipaNogueira/Follow_instructions_and_correct_your_pose/blob/main/img_a0_new.jpg" width=25% height=50% />
