@@ -5,7 +5,7 @@ The PoseFix directory was imported from the original repositories and some files
 <p float="left">
   <img src="https://github.com/AnaFilipaNogueira/Follow_instructions_and_correct_your_pose/blob/main/img_a0_new.jpg" width=25% height=50% />
   <img src="https://github.com/AnaFilipaNogueira/Follow_instructions_and_correct_your_pose/blob/main/img_b0_new.jpg" width=25% height=50% />
-  <img src="https://github.com/AnaFilipaNogueira/Follow_instructions_and_correct_your_pose/blob/main/description.png" width=25% height=50% />
+  <img src="https://github.com/AnaFilipaNogueira/Follow_instructions_and_correct_your_pose/blob/main/description.png" />
 </p></br>
 <em>Fig.1 - Example of a human mesh pair</em><br/><br/>
 
