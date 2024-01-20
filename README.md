@@ -3,8 +3,8 @@
 The PoseFix and the AMASS directories were imported from the original repositories and some files were adapted or created to be able to generate meshes from the available keypoints and the .json files for the various splits with the necessary information.
 
 <p float="left">
-  <img src="https://github.com/AnaFilipaNogueira/Follow_instructions_and_correct_your_pose/blob/main/img_a0.jpg" width=50% height=50% />
-  <img src="https://github.com/AnaFilipaNogueira/Follow_instructions_and_correct_your_pose/blob/main/img_b0.jpg" width=50% height=50% />
+  <img src="https://github.com/AnaFilipaNogueira/Follow_instructions_and_correct_your_pose/blob/main/img_a0_new.jpg" width=50% height=50% />
+  <img src="https://github.com/AnaFilipaNogueira/Follow_instructions_and_correct_your_pose/blob/main/img_b0_new.jpg" width=50% height=50% />
 </p></br>
 <em>Fig.1 - Example of a human mesh</em><br/><br/>
 
